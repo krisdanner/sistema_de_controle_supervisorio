@@ -95,6 +95,14 @@ O código segue a seguinte organização:
    - **`executeOption(int menuIndex)`**: Executa a funcionalidade correspondente à opção selecionada.
    - **Submenus específicos**: Implementam cada funcionalidade descrita.
 
+## Fotos do Projeto
+
+![Captura de tela 2024-12-26 141918](https://github.com/user-attachments/assets/f7dda559-9bc7-4d32-ba87-28853bd7764f)
+
+![Imagem do WhatsApp de 2024-12-26 à(s) 14 22 18_9e57f85d](https://github.com/user-attachments/assets/82246ed7-e82f-4d45-a17f-96b72b29e159)
+
+![Imagem do WhatsApp de 2024-12-26 à(s) 14 16 25_c73655d8](https://github.com/user-attachments/assets/02e79ab7-d435-4f38-ac6c-76e394be3512)
+
 ---
 
 ## Conclusão
