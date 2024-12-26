@@ -1,4 +1,4 @@
-# Sistema de Controle Supervisório - Arduino
+# Sistema de Controle Supervisório - Arduino UNO R3
 
 ## Introdução
 Este projeto implementa um sistema interativo em Arduino com um menu exibido em um **display LCD 16x2 (via I2C)** e navegação controlada por **quatro botões (push buttons)**. O sistema permite o controle e a leitura de diferentes dispositivos conectados ao Arduino, oferecendo funcionalidades como leitura de sensores, controle de relés e LEDs, e envio de mensagens para o LCD.
